@@ -27,7 +27,7 @@ watch(selectFont, () => {
       </svg>
 
       <div class="flex items-center gap-4">
-        <select v-model="selectFont" class="select block w-[250px]">
+        <select v-model="selectFont" class="select block w-[150px]">
           <option>Inconsolata</option>
           <option>sans-serif</option>
           <option>serif</option>
